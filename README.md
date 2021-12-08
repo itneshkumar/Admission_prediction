@@ -4,3 +4,5 @@ Admission prediction on the basis of score
 Input Feature
 </br>
 gre_score,toefl_score,university_rating,sop,lor,cgpa,research
+
+https://mldeploy43.herokuapp.com/
